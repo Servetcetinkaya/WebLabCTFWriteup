@@ -1,7 +1,8 @@
 # WebLabCTFWriteup
 
-Bu repo'da Türk milli hacker alıştırmaları yapabiliceğimiz olan 'Hackviser' 'da bulunan, Web Uygulama Güvenliği CTF sorularını çözdüm, ve bunları en anlaşılır dile çözümünü yazmaya çalıştım. 
-(write-up) 
+Bu repo'da Türk platformu olan, Siber güvenlik alanında alıştırmaları yapabiliceğimiz olan 'Hackviser' 'da Web Labının çözümünü anlatacağım. 
+Web Uygulama Güvenliği CTF sorularını çözdüm, ve bunları en anlaşılır dile çözümünü yazmaya çalıştım. 
+
 Zafiyetli makineleri çözerken işlediğim konular ; "Nedir ? , Nasıl Korunabiliriz ?"
 
 Çözdüğüm Zafiyetler ;
